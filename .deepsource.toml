@@ -3,3 +3,9 @@ version = 1
 [[analyzers]]
 name = "csharp"
 
+[[analyzers]]
+name = "javascript"
+
+[[analyzers]]
+name = "secrets"
+
